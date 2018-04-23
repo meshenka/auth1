@@ -1,6 +1,6 @@
 {
   "name": "auth1",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A test drive OAuth2 + JWT node application",
   "main": "index.js",
   "author": "Sylvain Gogel <sylvain.gogel@gmail.com>",
